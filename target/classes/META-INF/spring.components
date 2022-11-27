@@ -1,0 +1,3 @@
+gera.actividad.App=org.springframework.stereotype.Component
+gera.actividad.DocumentoController=org.springframework.stereotype.Component
+gera.actividad.GreetingController=org.springframework.stereotype.Component
